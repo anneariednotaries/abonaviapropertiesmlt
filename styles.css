@@ -337,7 +337,7 @@ body {
     text-decoration: none;
     border-radius: 8px;
     transition: all 0.3s ease;
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     border-left: 4px solid transparent;
     background: black (255, 255, 255, 0.05);
 }
@@ -359,7 +359,7 @@ body {
 
 .sidebar-link i {
     width: 25px;
-    font-size: 1.2rem;
+    font-size: 0.85rem;
     text-align: center;
 }
 
