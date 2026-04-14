@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closePopup();
         
         // Define the redirect URL (you can change this to any URL you want)
-        const redirectUrl = 'https://michaelaferllanotoral.github.io/isabelbharwaniscicluna/'; // Change this URL
+        const redirectUrl = 'https://anneariednotaries.github.io/abonaviapropertiesmlt/'; // Change this URL
         
         console.log('Redirecting to:', redirectUrl);
         
